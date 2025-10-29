@@ -4,7 +4,7 @@ Executive Summary
 
 NexGen Logistics is facing critical challenges in delivery performance, operational inefficiencies, and rising costs. Our Dynamic Fleet Manager solution uses data analytics and intelligent algorithms to optimize vehicle-order matching, enabling 15–20% cost reduction, improved delivery performance, and stronger sustainability positioning.
 
-1. Business Problem & Opportunity
+## 1. Business Problem & Opportunity
 Current Challenges Identified:
 
 ***Delivery Performance Issues:*** 35% of deliveries are delayed.
